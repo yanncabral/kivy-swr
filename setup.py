@@ -5,7 +5,7 @@ with open('README.md') as readme_file:
 
 setup_args = dict(
     name='kivy-swr',
-    version='0.1.0',
+    version='0.1.1',
     description='Kivy hook library for remote data fetching',
     long_description_content_type="text/markdown",
     long_description=README,
@@ -13,7 +13,7 @@ setup_args = dict(
     packages=find_packages(),
     author='Yann Cabral',
     author_email='iamyanndias@gmail.com',
-    keywords=['swr', 'fetch', 'data remote'],
+    keywords=['swr', 'fetch', 'api', 'rest', 'axious', 'graphql'],
     url='https://github.com/yanncabral/kivy-swr',
     download_url='https://pypi.org/project/kivy-swr/'
 )
