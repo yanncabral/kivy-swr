@@ -1,5 +1,5 @@
-from . import remote_data as swr
+from .remote_data import RemoteData
 
 __all__ = [
-    'swr',
+    'RemoteData',
 ]
