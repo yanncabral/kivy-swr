@@ -10,12 +10,6 @@ __pycache__/
 .idea/
 .vscode/
 
-# PyPi folders
-
-build/
-dist/
-kivy_swr.egg-info/
-
 # Distribution / packaging
 .Python
 build/
