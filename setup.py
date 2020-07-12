@@ -4,8 +4,8 @@ with open('README.md') as readme_file:
     README = readme_file.read()
 
 setup_args = dict(
-    name='kivy-swr',
-    version='0.1.1',
+    name='kivy_swr',
+    version='0.1.2',
     description='Kivy hook library for remote data fetching',
     long_description_content_type="text/markdown",
     long_description=README,
